@@ -11,7 +11,7 @@ What part of the vulnerability assessment was challenging or helpful to you?
 The challenging part was understanding which vulnerabilies were false-positives, but after reading the descriptions, it was easier to know which ones were false-positives.
 
 How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which mitigation techniques to use?
-  We increase security reviewing the code manually and with testing to find vulnerabilities. After that we came up with a plan to fix the vulnerabilites such as updating software. 
+  We increase security reviewing the code manually and with testing to find vulnerabilities. After that we came up with a plan to fix the vulnerabilites such as updating software. I think the biggest thing we can use to access vulnerabilies is to stay up to date about different vulnerabilies with the software we use. Knowing the different kinds will help create a mitigation plan.
 
 How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
 We ran the code, manually checked the code, and used the dependency check maven to look for vulnerabilites. Once they were discovered, we made changes to the code to prevent these vulnerabilies or we suppressed the false-positive vulnerabilies. After refactoring the code, we ran the code and test to check for new vulnerabilies and repeated the process.
