@@ -5,7 +5,7 @@ Briefly summarize your client, Artemis Financial, and their software requirement
   Artemis Financial is a consulting company that creates financial plans for clients. These plans include saviings, retirement, investments, and insurance. They are requesting an assistants on how to protect against external threats.
 
 What did you do very well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
-  The main issue I addressed for our client was updating the software that they were using such as the dependency check maven. It is important to protect against vulnerabilities that can lead to hacks and other types of attacks. It is very important for this company to make sure their information is secure because they are handling personal and financial information.
+  The main issue I addressed for our client was updating the software that they were using such as the dependency check maven. It is important to protect against vulnerabilities that can lead to hacks and other types of attacks. It is very important for this company to make sure their information is secure because they are handling personal and financial information. Knowing that they information is secure, will give a peace of mind to the client and their customers.
 
 What part of the vulnerability assessment was challenging or helpful to you?
 The challenging part was understanding which vulnerabilies were false-positives, but after reading the descriptions, it was easier to know which ones were false-positives.
