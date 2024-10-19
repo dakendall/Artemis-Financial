@@ -19,4 +19,4 @@ __What resources, tools, or coding practices did you use that might be helpful i
   During the first discussion post, we read about different types of attacks that had already happened. I think it is a good idea to learn from experience, mine and others, so we can prevent the same things happening again.
 
 __Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?__
-  I think I can show future employers the knowledge I learned such has different vulnerabilities and how to test them. I learned different types of algorithm ciphers and which ones are suited for which applications.
+  I think I can show future employers the knowledge I learned such different vulnerabilities and how to test them. I learned different types of algorithm ciphers and which ones are suited for which applications.
