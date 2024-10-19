@@ -1,6 +1,6 @@
 # Artemis-Financial
 
-__Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?__
+## __Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?__
 
   Artemis Financial is a consulting company that creates financial plans for clients. These plans include saviings, retirement, investments, and insurance. They are requesting an assistants on how to protect against external threats.
 
